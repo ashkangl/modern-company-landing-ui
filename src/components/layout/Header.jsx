@@ -18,6 +18,7 @@ const Header = ({logo = "YOURCOMPANY", ctaText = "Let's Talk"}) => {
 
     const handleShowMobile = () => {
         setMobileMenu((prev) => !prev)
+        console.log(mobileMenu)
     }
 
     const handleMouseMove = (e) => {
@@ -89,7 +90,7 @@ const Header = ({logo = "YOURCOMPANY", ctaText = "Let's Talk"}) => {
                 {/* Mobile Nav */}
                 <div className="md:hidden block">
                     {/* <button className="md:hidden flex cursor-pointer px-2" onClick={handleShowMobile}>{mobileMenu ? "🗙" : "☰"}</button> */}
-                    <AnimatedButton onClick={handleShowMobile} />
+                    <AnimatedButton onClick={handleShowMobile} active={mobileMenu} />
                 </div>
 
             </div>
