@@ -14,18 +14,6 @@ The website is designed for agencies, SaaS companies, startups, digital studios,
 
 ---
 
-## 📸 Preview
-
-### Desktop
-
-![Desktop Preview](./screenshots/desktop.png)
-
-### Mobile
-
-![Mobile Preview](./screenshots/mobile.png)
-
----
-
 ## ✨ Features
 
 - Modern company landing page
