@@ -10,7 +10,7 @@ The website is designed for agencies, SaaS companies, startups, digital studios,
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-project.vercel.app)
+[View Live Demo](https://modern-company-landing-ui.vercel.app/)
 
 ---
 
@@ -293,7 +293,7 @@ git clone https://github.com/ashkangl/modern-company-landing-ui.git
 Move into the project directory:
 
 ```bash
-cd companyui
+cd modern-company-landing-ui
 ```
 
 Install dependencies:
